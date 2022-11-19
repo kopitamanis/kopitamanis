@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kopitamanis
-- 👀 I’m interested in Software Quality Assurance, Data Science and Machine Learning
+- 👀 I’m interested in Software Quality Assurance
 - 🌱 I’m currently learning about Software Quality Assurance, Data Analyst and Backend Microservice with Pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
